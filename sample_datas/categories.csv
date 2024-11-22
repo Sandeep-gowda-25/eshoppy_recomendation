@@ -1,0 +1,11 @@
+category_id,category_name,items,spend_capacity
+1,student_low_buget,"books, pens, bags",100
+2,student_high_buget,"bags, shoes, mobiles, cloths, bikes, accessories",1000
+3,student_avg_buget,"bags, shoes, mobiles",500
+4,female_earner,"mobiles, cloths, accessories, electronics, makeups, shoes",5000
+5,femaler_explorer,"mobiles, cloths, accessories, shoes, bags, bikes",6000
+6,male_earner,"mobiles, cloths, accessories, electronics, bikes, shoes",4500
+7,male_explorer,"mobiles, cloths, accessories, electronics, bikes, shoes, bags, books",6500
+8,familian_high_spender,"accessories, electronics, utencils, mobiles, cloths",7000
+9,familian_low_spender,"accessories, electronics, utencils, cloths, bags, books",5000
+10,mixed_category,,

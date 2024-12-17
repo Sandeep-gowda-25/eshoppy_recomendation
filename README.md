@@ -5,4 +5,5 @@
 
 ###### Sample of response on the flow can be seen below,
 ![image](https://github.com/user-attachments/assets/48a88738-0864-4a1a-98ff-b79de5662464)
-
+###### streamlit run app.py
+![image](https://github.com/user-attachments/assets/a23d404e-06e6-4a5e-8145-80d492b95137)
